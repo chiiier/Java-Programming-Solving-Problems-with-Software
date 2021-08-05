@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Quiz
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGray(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ saveNewGrayImage()
+comment3.params=inImage
+comment3.target=edu.duke.ImageResource\ makeInversion(edu.duke.ImageResource)
+comment4.params=
+comment4.target=void\ saveNewInvertedImage()
+numComments=5
